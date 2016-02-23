@@ -25,6 +25,14 @@ public class FTPConnection {
 	private FTPClient m_ftpClient;
 
     
+	
+	
+	
+	
+	
+	
+	
+	
 	/**
 	 * @return the m_connectFlag
 	 */
