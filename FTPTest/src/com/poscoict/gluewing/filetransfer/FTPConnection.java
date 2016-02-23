@@ -23,15 +23,6 @@ public class FTPConnection {
 	private int m_returnCode;
 
 	private FTPClient m_ftpClient;
-
-    
-	
-	
-	
-	
-	
-	
-	
 	
 	/**
 	 * @return the m_connectFlag
